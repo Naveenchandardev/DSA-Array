@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Collections;
 
 public class Two_Pointer_Array_Sort { 
+	// first value: largest first value
+	// second value: smallest first value
+	// third value: largest 2nd value
+	// fourth value: smallest 2nd value
+	// viceversa
 	static void rearrange(int[] arr, int n){
 		int temp[] = arr.clone();
 		int small = 0, large = n - 1;

@@ -3,6 +3,7 @@ package com.practice.dsa.array;
 import java.util.Arrays;
 
 public class Segregate_Even_Odd {
+	// in the given array; move all odd values at last
 	public static void main(String[] args) {
 		int [] a = {2,5,4,8,9,6,3,5,7};
 		myMethod(a, a.length);
