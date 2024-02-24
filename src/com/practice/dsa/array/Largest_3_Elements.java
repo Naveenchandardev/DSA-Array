@@ -7,7 +7,7 @@ public class Largest_3_Elements {
 		int first=0, second=0,third=0;
 		for(int i=0;i<arr.length;i++) {
 			if(arr[i]>first) {
-				third = second;
+				third = second; 
 				second = first;
 				first = arr[i];
 			}
