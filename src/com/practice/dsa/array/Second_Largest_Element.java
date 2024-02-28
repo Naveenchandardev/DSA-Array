@@ -12,6 +12,7 @@ public class Second_Largest_Element {
 		
 		//METHOD 2: REVERSE METHOD
 		Arrays.sort(a, Collections.reverseOrder());
+		System.out.println(Arrays.toString(a));
 		System.out.println("Method 2: Second largest element : "+a[1]);
 		
 		//METHOD 3: STREAM API
