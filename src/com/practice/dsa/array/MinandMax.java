@@ -6,6 +6,7 @@ public class MinandMax {
 	public static void main(String[] args) {
 		  int a[] = { 1, 5, 6, 46, 34, 23, 13, 53};
 		  //METHOD 1;
+		
 		  Arrays.sort(a);
 		  System.out.println("Method 1 - Min of array is : "+a[0]);
 		  System.out.println("Method 1 - Max of array is : "+a[a.length-1]);
