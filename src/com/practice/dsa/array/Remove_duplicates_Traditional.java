@@ -9,9 +9,9 @@ public class Remove_duplicates_Traditional {
         int previous = array[0];
         int index = 1;
         for (int i = 1; i < array.length; i++) {
-            if (array[i] != previous) {      // If the current element is different from the previous one
-                array[index++] = array[i];   // Store the current element
-                previous = array[i]; // Update the previous element
+            if (array[i] != previous) {
+                array[index++] = array[i];
+                previous = array[i];
             }
         }
         // Create a new array containing distinct elements
