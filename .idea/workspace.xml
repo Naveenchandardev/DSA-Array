@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/Remove_duplicates_Traditional.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/MergeArrayCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/MergeArrayCopy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcode/Two_sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcode/Two_sum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,9 @@
     "Application.Median_of_2_array.executor": "Debug",
     "Application.MergeArrayCopy.executor": "Run",
     "Application.MinandMax.executor": "Run",
+    "Application.Remove_duplicates_Traditional.executor": "Run",
     "Application.Two_sum.executor": "Run",
+    "Application.Zoho_array.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -47,7 +48,7 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Zoho_array">
+  <component name="RunManager" selected="Application.Remove_duplicates_Traditional">
     <configuration name="Median_of_2_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.Median_of_2_array" />
       <module name="DSA-Array" />
@@ -74,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinandMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.MinandMax" />
+    <configuration name="Remove_duplicates_Traditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Remove_duplicates_Traditional" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Remove_duplicates_Traditional" />
         <item itemvalue="Application.Zoho_array" />
         <item itemvalue="Application.Two_sum" />
         <item itemvalue="Application.MergeArrayCopy" />
         <item itemvalue="Application.Median_of_2_array" />
-        <item itemvalue="Application.MinandMax" />
       </list>
     </recent_temporary>
   </component>
