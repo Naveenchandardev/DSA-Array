@@ -16,11 +16,6 @@ public class RemoveDuplicate {
             set.add(element);
         }
         System.out.println("set values: "+set);
-
-        int[] arrayWithoutDuplicates = set.stream()
-                .mapToInt(Integer::intValue)
-                .toArray();
-        System.out.println("Method2 result: "+Arrays.toString(arrayWithoutDuplicates));
         System.out.println();
 //METHOD 3: sorting and remove duplicate
         int  [] input2 = {1,5,3,3,18,5,6,8,9,7};
