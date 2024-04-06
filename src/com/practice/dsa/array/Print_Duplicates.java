@@ -2,6 +2,7 @@ package com.practice.dsa.array;
 
 public class Print_Duplicates {
     public static void main(String[] args) {
+        //PRINT duplicates without using collections and stream;
         int[] array = {1, 2, 3, 4, 2, 7, 8, 8, 3};
         System.out.println("Duplicate elements:");
         findDuplicates(array);
