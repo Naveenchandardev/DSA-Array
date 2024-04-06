@@ -5,14 +5,12 @@ import java.util.Arrays;
 public class Remove_duplicates_Traditional {
     public static void main(String[] args){
         //REMOVE duplicates without using collections and stream;
-        int[] array = {-1, 2, 3, 4, 2, 5, 6, 1, 3};
+        int[] array = {-5, 9, 3, -4, 2, 5, 2, 2, 3};
         Arrays.sort(array);
-        int previous = array[0];
         int index = 1;
         for (int i = 1; i < array.length; i++) {
-            if (array[i] != previous) {
+            if (array[i] != array[i-1]) {
                 array[index++] = array[i];
-                previous = array[i];
             }
         }
         int[] distinctArray = Arrays.copyOf(array, index);

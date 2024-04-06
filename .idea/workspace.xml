@@ -48,7 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/Test&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Remove_duplicates_Traditional_2">
+  <component name="RunManager" selected="Application.Remove_duplicates_Traditional">
     <configuration name="MergeArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.MergeArrayCopy" />
       <module name="DSA-Array" />
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Remove_duplicates_Traditional_2" />
         <item itemvalue="Application.Remove_duplicates_Traditional" />
+        <item itemvalue="Application.MergeArrayCopy" />
+        <item itemvalue="Application.Remove_duplicates_Traditional_2" />
         <item itemvalue="Application.Zoho_array" />
         <item itemvalue="Application.Two_sum" />
-        <item itemvalue="Application.MergeArrayCopy" />
       </list>
     </recent_temporary>
   </component>
@@ -141,5 +141,16 @@
       <updated>1711810305707</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/MergeArrayCopy.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
