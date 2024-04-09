@@ -52,7 +52,7 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Product_Array">
+  <component name="RunManager" selected="Application.Rotate_Array">
     <configuration name="MergeArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.MergeArrayCopy" />
       <module name="DSA-Array" />
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_duplicates_Traditional_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Remove_duplicates_Traditional_2" />
+    <configuration name="Rotate_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Rotate_Array" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Rotate_Array" />
         <item itemvalue="Application.Product_Array" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.Remove_duplicates_Traditional" />
         <item itemvalue="Application.MergeArrayCopy" />
-        <item itemvalue="Application.Remove_duplicates_Traditional_2" />
       </list>
     </recent_temporary>
   </component>
