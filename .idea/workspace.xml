@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/Sorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/Product_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/Sorting.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
     "Application.Median_of_2_array.executor": "Debug",
     "Application.MergeArrayCopy.executor": "Run",
     "Application.MinandMax.executor": "Run",
+    "Application.Product_Array.executor": "Run",
     "Application.Remove_duplicates_Traditional.executor": "Run",
     "Application.Remove_duplicates_Traditional_2.executor": "Run",
     "Application.Sorting.executor": "Run",
@@ -46,12 +49,25 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Stream-Api-master"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Sorting">
+  <component name="RunManager" selected="Application.Product_Array">
     <configuration name="MergeArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.MergeArrayCopy" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Product_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Product_Array" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -102,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoho_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Zoho_array" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Product_Array" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.Remove_duplicates_Traditional" />
         <item itemvalue="Application.MergeArrayCopy" />
         <item itemvalue="Application.Remove_duplicates_Traditional_2" />
-        <item itemvalue="Application.Zoho_array" />
       </list>
     </recent_temporary>
   </component>
