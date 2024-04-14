@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/GeeksforGeeks/Currency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Currency.executor": "Run",
     "Application.Median_of_2_array.executor": "Debug",
     "Application.MergeArrayCopy.executor": "Run",
     "Application.MinandMax.executor": "Run",
@@ -48,16 +50,16 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/springboot-backend"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Rotate_Array">
-    <configuration name="MergeArrayCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.MergeArrayCopy" />
+  <component name="RunManager" selected="Application.Currency">
+    <configuration name="Currency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.GeeksforGeeks.Currency" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.GeeksforGeeks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Currency" />
         <item itemvalue="Application.Rotate_Array" />
         <item itemvalue="Application.Product_Array" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.Remove_duplicates_Traditional" />
-        <item itemvalue="Application.MergeArrayCopy" />
       </list>
     </recent_temporary>
   </component>
