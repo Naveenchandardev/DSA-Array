@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/Product_Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/Sorting.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +39,7 @@
     "Application.Product_Array.executor": "Run",
     "Application.Remove_duplicates_Traditional.executor": "Run",
     "Application.Remove_duplicates_Traditional_2.executor": "Run",
+    "Application.Rotate_Array.executor": "Run",
     "Application.Sorting.executor": "Run",
     "Application.Two_sum.executor": "Run",
     "Application.Zoho_array.executor": "Run",
@@ -49,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-Array"
+    "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/DSA-String"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Rotate_Array">
