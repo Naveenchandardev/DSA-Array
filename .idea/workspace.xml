@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/IntersectionOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/BuyChoclates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d86a2e5c2422c59f2f24d2be24890c00e2c3b90" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d86a2e5c2422c59f2f24d2be24890c00e2c3b90" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/IntersectionOfArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/IntersectionOfArrays.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BuyChoclates.executor": "Run",
     "Application.Concurrency_numbers.executor": "Run",
     "Application.Currency.executor": "Run",
-    "Application.IntersectionOfArrays.executor": "Run",
+    "Application.IntersectionOfArrays.executor": "Debug",
     "Application.Median_of_2_array.executor": "Debug",
     "Application.MergeArrayCopy.executor": "Run",
     "Application.MinandMax.executor": "Run",
@@ -58,7 +63,20 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/Test"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IntersectionOfArrays">
+  <component name="RunManager" selected="Application.BuyChoclates">
+    <configuration name="BuyChoclates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.BuyChoclates" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Concurrency_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.GeeksforGeeks.Concurrency_numbers" />
       <module name="DSA-Array" />
@@ -98,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_duplicates_Traditional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Remove_duplicates_Traditional" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Second_Largest_Element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Second_Largest_Element" />
       <module name="DSA-Array" />
@@ -126,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuyChoclates" />
         <item itemvalue="Application.IntersectionOfArrays" />
         <item itemvalue="Application.Concurrency_numbers" />
         <item itemvalue="Application.Print_Duplicates" />
         <item itemvalue="Application.Second_Largest_Element" />
-        <item itemvalue="Application.Remove_duplicates_Traditional" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +179,11 @@
           <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/Remove_duplicates_Traditional.java</url>
           <line>15</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/IntersectionOfArrays.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
