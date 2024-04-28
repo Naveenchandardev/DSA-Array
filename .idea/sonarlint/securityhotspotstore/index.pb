@@ -21,3 +21,17 @@ d
 ,src/com/practice/dsa/array/BinarySearch.java,f\2\f20a630b85d4e474d498ff66374d1167148476f6
 c
 3src/com/practice/dsa/array/TwoDimentionalArray.java,6\7\673dddf6aa759ef9a72902e767f6c922009e4182
+]
+-src/com/practice/dsa/array/Product_Array.java,3\4\34c109fe22de743af422716e17cdc07947de797f
+b
+2src/com/practice/dsa/array/Print_duplicates_2.java,e\1\e1b45fa67b43c50dd733b82cba1397330875cabb
+h
+8src/com/practice/dsa/array/ReArrange_Even_Positions.java,e\6\e603159c7bdeadb5aa9799080a3c1580d0d2f25f
+_
+/src/com/practice/dsa/array/RemoveDuplicate.java,7\5\75813658b2124a30a52f843f517bd52e352a7fa1
+`
+0src/com/practice/dsa/array/MergeArrayStream.java,f\3\f3721e95c965b5b3061bc7faef2b50e389381744
+^
+.src/com/practice/dsa/array/MergeArrayCopy.java,e\3\e371882853af9ab75a8838a6d7fd0895deef24df
+a
+1src/com/practice/dsa/array/MergeTwoArraysOld.java,e\0\e0a3da8db8ce01b577c51bdd814089edb557765a
