@@ -35,3 +35,11 @@ _
 .src/com/practice/dsa/array/MergeArrayCopy.java,e\3\e371882853af9ab75a8838a6d7fd0895deef24df
 a
 1src/com/practice/dsa/array/MergeTwoArraysOld.java,e\0\e0a3da8db8ce01b577c51bdd814089edb557765a
+Y
+)src/com/practice/dsa/array/MinandMax.java,5\e\5e5f97d519ad669d0474c9e2155809b8fa460330
+]
+-src/com/practice/dsa/array/RemoveElement.java,d\3\d3840e293461d704c754e6dd362e86452957b093
+_
+/src/com/practice/dsa/array/ReverseCircular.java,5\3\530296d39338d24f78579ede47449c2af910d802
+[
++src/com/practice/dsa/array/PivotNumber.java,0\d\0d1632b3827297a814cdae5909a7cb3754154d38
