@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/PivotNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbb4f60cdffe1997f835dd1a09d7b145753362ec" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bbb4f60cdffe1997f835dd1a09d7b145753362ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d1632b3827297a814cdae5909a7cb3754154d38" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d1632b3827297a814cdae5909a7cb3754154d38" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d86a2e5c2422c59f2f24d2be24890c00e2c3b90" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d86a2e5c2422c59f2f24d2be24890c00e2c3b90" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75813658b2124a30a52f843f517bd52e352a7fa1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75813658b2124a30a52f843f517bd52e352a7fa1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/884936c94401b2567ecdec1ee140afa66a7dc75a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/8/884936c94401b2567ecdec1ee140afa66a7dc75a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d66686b3306628e3ffe9e0568fd010078d27897" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d66686b3306628e3ffe9e0568fd010078d27897" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0a3da8db8ce01b577c51bdd814089edb557765a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0a3da8db8ce01b577c51bdd814089edb557765a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1b45fa67b43c50dd733b82cba1397330875cabb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1b45fa67b43c50dd733b82cba1397330875cabb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e266d6ca728c14d2561882f8dc77daf3fe7c3515" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e266d6ca728c14d2561882f8dc77daf3fe7c3515" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e371882853af9ab75a8838a6d7fd0895deef24df" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e371882853af9ab75a8838a6d7fd0895deef24df" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -46,6 +53,7 @@
     &quot;Application.Median_of_2_array.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MergeArrayCopy.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinandMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PivotNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.Print_Duplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.Print_duplicates_2.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Product_Array.executor&quot;: &quot;Run&quot;,
@@ -55,6 +63,7 @@
     &quot;Application.Second_Largest_Element.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoDimentionalArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Two_Pointer_Array_Sort.executor&quot;: &quot;Run&quot;,
     &quot;Application.Two_sum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Zoho_array.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -62,10 +71,10 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/DSA-Array&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/DSA-Stream-Api&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Product_Array">
+  <component name="RunManager" selected="Application.Two_Pointer_Array_Sort">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.BinarySearch" />
       <module name="DSA-Array" />
@@ -79,21 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuyChoclates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.BuyChoclates" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertionOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.InsertionOrder" />
+    <configuration name="PivotNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.PivotNumber" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -131,13 +127,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Two_Pointer_Array_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Two_Pointer_Array_Sort" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Two_Pointer_Array_Sort" />
+        <item itemvalue="Application.PivotNumber" />
         <item itemvalue="Application.Product_Array" />
         <item itemvalue="Application.TwoDimentionalArray" />
         <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.InsertionOrder" />
-        <item itemvalue="Application.BuyChoclates" />
       </list>
     </recent_temporary>
   </component>

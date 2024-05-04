@@ -1,9 +1,9 @@
 
-E
-java:S1197"*Move the array designators [] to the type.(Úîöıÿÿÿÿ
-@
-java:S1197"*Move the array designators [] to the type.(İ«Äˆ
-t
-java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¨òÆüÿÿÿÿ
-9
-java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+k
+java:S1197"*Move the array designators [] to the type.(ÚîöıÿÿÿÿJ$52abd9a6-ae6b-4137-8409-aa4b4c5c717e
+f
+java:S1197"*Move the array designators [] to the type.(İ«ÄˆJ$45d26358-8ced-48c4-bc23-620f4d0f3c96
+š
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¨òÆüÿÿÿÿJ$940a4977-2912-4c75-aa00-7523453a8b80
+_
+java:S1128"$Remove this unused import 'java.io'.(¬›ãDJ$a6257cec-a19d-4374-ab47-224110a54c9c
