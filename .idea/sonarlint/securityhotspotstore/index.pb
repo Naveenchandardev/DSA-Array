@@ -51,3 +51,17 @@ Z
 *src/com/practice/dsa/array/Zoho_array.java,2\7\275046f78aa6b944c7c463884c6d72779b8337c6
 o
 ?src/com/practice/dsa/array/leetcode/LargestPositiveInteger.java,c\2\c28a58f3de8ee430a2166fe281e31b06e01c9b49
+b
+2src/com/practice/dsa/array/Largest_3_Elements.java,a\d\ad9329443081683b0efd6cff817c04ea9cef6431
+\
+,src/com/practice/dsa/array/Rotate_Array.java,1\f\1faa0458dfc86531beb68a8c3ed7e461b9df064f
+l
+<src/com/practice/dsa/array/leetcode/First_Last_Position.java,3\3\337b50615049d226be73fe1685bd98351ec813cc
+`
+0src/com/practice/dsa/array/leetcode/Two_sum.java,b\9\b9ec0e35dd7090397ed9052016ec7ebcbb192109
+b
+2src/com/practice/dsa/array/Segregate_Even_Odd.java,3\d\3db19c7d86b1f3cc6dfcd0d899311fa1e75b0d0a
+f
+6src/com/practice/dsa/array/GeeksforGeeks/Currency.java,2\6\26c3aae9e9e183d6b4c1db30b94723070d0b5066
+`
+0src/com/practice/dsa/array/RemoveDuplicates.java,2\e\2e866e9494d6591cee78863545ac3137ea6fc83a
