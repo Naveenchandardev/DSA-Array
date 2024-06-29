@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275046f78aa6b944c7c463884c6d72779b8337c6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/275046f78aa6b944c7c463884c6d72779b8337c6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/393cea8fd1c9e38ce95ba4266d2f3bc2dbdc9a83" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/393cea8fd1c9e38ce95ba4266d2f3bc2dbdc9a83" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e866e9494d6591cee78863545ac3137ea6fc83a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75813658b2124a30a52f843f517bd52e352a7fa1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75813658b2124a30a52f843f517bd52e352a7fa1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/e/2e866e9494d6591cee78863545ac3137ea6fc83a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/RemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/Second_Largest_Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/Second_Largest_Element.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +52,7 @@
     &quot;Application.Print_Duplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.Print_duplicates_2.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Product_Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.Remove_duplicates_Traditional.executor&quot;: &quot;Run&quot;,
     &quot;Application.Remove_duplicates_Traditional_2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Rotate_Array.executor&quot;: &quot;Run&quot;,
@@ -71,7 +70,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/springboot-backend&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicates">
+  <component name="RunManager" selected="Application.TwoDimentionalArray">
     <configuration name="Currency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.GeeksforGeeks.Currency" />
       <module name="DSA-Array" />
@@ -85,21 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestPositiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.LargestPositiveInteger" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PivotNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.PivotNumber" />
+    <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.MatrixTranspose" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -113,6 +99,19 @@
     </configuration>
     <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.RemoveDuplicates" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoDimentionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.TwoDimentionalArray" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDimentionalArray" />
+        <item itemvalue="Application.MatrixTranspose" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Currency" />
         <item itemvalue="Application.Two_Pointer_Array_Sort" />
-        <item itemvalue="Application.LargestPositiveInteger" />
-        <item itemvalue="Application.PivotNumber" />
       </list>
     </recent_temporary>
   </component>
