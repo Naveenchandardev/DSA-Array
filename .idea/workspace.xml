@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e866e9494d6591cee78863545ac3137ea6fc83a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75813658b2124a30a52f843f517bd52e352a7fa1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/75813658b2124a30a52f843f517bd52e352a7fa1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/e/2e866e9494d6591cee78863545ac3137ea6fc83a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +40,7 @@
     &quot;Application.InsertionOrder.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntersectionOfArrays.executor&quot;: &quot;Debug&quot;,
     &quot;Application.LargestPositiveInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixTranspose.executor&quot;: &quot;Run&quot;,
     &quot;Application.Median_of_2_array.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MergeArrayCopy.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinandMax.executor&quot;: &quot;Run&quot;,
@@ -58,7 +54,7 @@
     &quot;Application.Rotate_Array.executor&quot;: &quot;Run&quot;,
     &quot;Application.Second_Largest_Element.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoDimentionalArray.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TwoDimentionalArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Two_Pointer_Array_Sort.executor&quot;: &quot;Debug&quot;,
     &quot;Application.Two_sum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Zoho_array.executor&quot;: &quot;Run&quot;,
@@ -70,7 +66,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/springboot-backend&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoDimentionalArray">
+  <component name="RunManager" selected="Application.FindIndexFrom_matric">
     <configuration name="Currency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.GeeksforGeeks.Currency" />
       <module name="DSA-Array" />
@@ -84,12 +80,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FindIndexFrom_matric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindIndexFrom_matric" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MatrixTranspose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.MatrixTranspose" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,7 +111,7 @@
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,20 +124,7 @@
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Two_Pointer_Array_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Two_Pointer_Array_Sort" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindIndexFrom_matric" />
         <item itemvalue="Application.TwoDimentionalArray" />
         <item itemvalue="Application.MatrixTranspose" />
         <item itemvalue="Application.RemoveDuplicates" />
         <item itemvalue="Application.Currency" />
-        <item itemvalue="Application.Two_Pointer_Array_Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +207,11 @@
           <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/GeeksforGeeks/Currency.java</url>
           <line>21</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/TwoDimentionalArray.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

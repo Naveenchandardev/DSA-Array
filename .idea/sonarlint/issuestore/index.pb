@@ -67,3 +67,7 @@ e
 5src/com/practice/dsa/array/RemoveDuplicatesByMap.java,a\b\ab81d1f402b3660a39c0b698bc22bf1dcca1d842
 _
 /src/com/practice/dsa/array/MatrixTranspose.java,5\d\5d2af2d3579a038597bd464ec0727b473f7817f6
+d
+4src/com/practice/dsa/array/FindIndexFrom_matric.java,4\5\45bf9db0212beca61e220721f3e1244143310b62
+m
+=src/com/practice/dsa/array/leetcode/FindIndexFrom_matric.java,4\b\4b2f9c8c33efd1b139e6f57bfc51ed4089b09c15
