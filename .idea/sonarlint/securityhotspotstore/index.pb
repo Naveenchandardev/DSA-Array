@@ -71,3 +71,5 @@ m
 =src/com/practice/dsa/array/leetcode/FindIndexFrom_matric.java,4\b\4b2f9c8c33efd1b139e6f57bfc51ed4089b09c15
 l
 <src/com/practice/dsa/array/leetcode/FindConsecutiveOdds.java,d\1\d17e63897ee021dc2fc913744fe8e8bd2903550e
+k
+;src/com/practice/dsa/array/leetcode/IntersectionArrays.java,1\1\116567957b018e051de4894573b0373e0acd3754
