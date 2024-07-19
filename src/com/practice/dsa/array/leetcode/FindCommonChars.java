@@ -5,10 +5,11 @@ import java.util.Arrays;
 import java.util.List;
 
 public class FindCommonChars {
+
+    //https://leetcode.com/problems/find-common-characters/?envType=daily-question&envId=2024-06-05
     public static void main(String[] args) {
         String[] input = {"bella", "label", "roller"};
-        System.out.println(commonChars(input)); // Output: [e, l, l]
-    }
+        System.out.println(commonChars(input));     }
 
     public static List<String> commonChars(String[] A) {
         List<String> result = new ArrayList<>();
@@ -27,7 +28,6 @@ public class FindCommonChars {
                 minFreq[i] = Math.min(minFreq[i], charCount[i]);
             }
         }
-
         // Build the result list based on the frequency map
         for (int i = 0; i < 26; i++) {
             while (minFreq[i] > 0) {
