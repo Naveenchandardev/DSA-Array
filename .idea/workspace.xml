@@ -69,7 +69,7 @@
     "last_opened_file_path": "C:/Users/VE/Chandar/Java projects/springboot-backend"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FindCommonChars">
+  <component name="RunManager" selected="Application.FindConsecutiveOdds2">
     <configuration name="FindCommonChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindCommonChars" />
       <module name="DSA-Array" />
@@ -96,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindIndexFrom_matric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindIndexFrom_matric" />
+    <configuration name="FindConsecutiveOdds2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindConsecutiveOdds2" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindConsecutiveOdds2" />
         <item itemvalue="Application.FindCommonChars" />
         <item itemvalue="Application.PassPillow" />
         <item itemvalue="Application.IntersectionArrays" />
         <item itemvalue="Application.FindConsecutiveOdds" />
-        <item itemvalue="Application.FindIndexFrom_matric" />
       </list>
     </recent_temporary>
   </component>
