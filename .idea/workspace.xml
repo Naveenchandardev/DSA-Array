@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cd2a5952c37b4d02b27c73e4ada7a5378e73d3e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cd2a5952c37b4d02b27c73e4ada7a5378e73d3e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/springboot-backend&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindConsecutiveOdds2">
+  <component name="RunManager" selected="Application.FirstRepeatingInteger">
     <configuration name="FindCommonChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindCommonChars" />
       <module name="DSA-Array" />
@@ -87,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindConsecutiveOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindConsecutiveOdds" />
+    <configuration name="FindConsecutiveOdds2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindConsecutiveOdds2" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindConsecutiveOdds2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindConsecutiveOdds2" />
+    <configuration name="FirstRepeatingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FirstRepeatingInteger" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstRepeatingInteger" />
         <item itemvalue="Application.FindConsecutiveOdds2" />
         <item itemvalue="Application.FindCommonChars" />
         <item itemvalue="Application.PassPillow" />
         <item itemvalue="Application.IntersectionArrays" />
-        <item itemvalue="Application.FindConsecutiveOdds" />
       </list>
     </recent_temporary>
   </component>

@@ -81,3 +81,5 @@ m
 =src/com/practice/dsa/array/leetcode/FindConsecutiveOdds2.java,3\b\3b766983bb459103cdce79af27d3bf38fcf79b73
 f
 6src/com/practice/dsa/array/leetcode/FrequencySort.java,0\9\0946c64dc82981fb15411f33428666b1ffdd9d51
+n
+>src/com/practice/dsa/array/leetcode/FirstRepeatingInteger.java,0\c\0c2ab130ab11070944b28ddaaa9d89d11656bfce
