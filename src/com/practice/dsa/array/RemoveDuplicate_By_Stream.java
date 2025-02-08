@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.stream.Collectors;
 
-public class RemoveDuplicate {
+public class RemoveDuplicate_By_Stream {
     public static void main (String[] args){
         Integer [] input1= {1,5,3,3,18,5,6,8,9,7};
 //METHOD:1-remove duplicate using set && stream;
