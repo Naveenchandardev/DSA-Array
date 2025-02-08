@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/RemoveDuplicates_UnsorterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/TwoPointer_Problem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +71,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/springboot-backend&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicates_UnsorterArray">
+  <component name="RunManager" selected="Application.TwoPointer_Problem">
     <configuration name="FindCommonChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindCommonChars" />
       <module name="DSA-Array" />
@@ -111,19 +111,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassPillow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.PassPillow" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RemoveDuplicates_UnsorterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.RemoveDuplicates_UnsorterArray" />
       <module name="DSA-Array" />
@@ -137,13 +124,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoPointer_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeTwo.TwoPointer_Problem" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.leetcodeTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoPointer_Problem" />
         <item itemvalue="Application.RemoveDuplicates_UnsorterArray" />
         <item itemvalue="Application.FirstRepeatingInteger" />
         <item itemvalue="Application.FindConsecutiveOdds2" />
         <item itemvalue="Application.FindCommonChars" />
-        <item itemvalue="Application.PassPillow" />
       </list>
     </recent_temporary>
   </component>
