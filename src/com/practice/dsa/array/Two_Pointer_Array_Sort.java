@@ -22,7 +22,8 @@ public class Two_Pointer_Array_Sort {
 		}
 	}
 	public static void main(String[] args){
-		int arr[] = new int[] { 1, 2, 3, 4, 5, 6 };
+		int arr[] = new int[] { 6,5,4,3 };
+		Arrays.sort(arr);
 		System.out.println("Original Array ");
 		System.out.println(Arrays.toString(arr));
 		rearrange(arr, arr.length);
