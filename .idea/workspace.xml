@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,20 +75,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/VE/Chandar/Java projects/springboot-backend&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Stocks">
-    <configuration name="FirstRepeatingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FirstRepeatingInteger" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Stocks_2">
     <configuration name="RemoveDuplicates_UnsorterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.RemoveDuplicates_UnsorterArray" />
       <module name="DSA-Array" />
@@ -104,6 +91,19 @@
     </configuration>
     <configuration name="Stocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeTwo.Stocks" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.leetcodeTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stocks_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeTwo.Stocks_2" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stocks_2" />
         <item itemvalue="Application.Stocks" />
         <item itemvalue="Application.Two_Pointer_Array_Sort" />
         <item itemvalue="Application.TwoPointer_Problem" />
         <item itemvalue="Application.RemoveDuplicates_UnsorterArray" />
-        <item itemvalue="Application.FirstRepeatingInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +231,16 @@
           <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/TwoPointer_Problem.java</url>
           <line>10</line>
           <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks_2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
