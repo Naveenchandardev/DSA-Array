@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c28a58f3de8ee430a2166fe281e31b06e01c9b49" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c28a58f3de8ee430a2166fe281e31b06e01c9b49" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcode/LargestPositiveInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcode/LargestPositiveInteger.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/SecondLargestElement_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks_2.java" afterDir="false" />
+>>>>>>> d32119d8eea70985d0cedd159bc5764f1982e30c
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +30,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2ePdmREOw2WaexuXPzvXQp0dzRX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -78,14 +86,21 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "settings.sync"
   }
+<<<<<<< HEAD
 }]]></component>
   <component name="RunManager" selected="Application.LargestPositiveInteger">
     <configuration name="FindCommonChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindCommonChars" />
+=======
+}</component>
+  <component name="RunManager" selected="Application.Stocks_2">
+    <configuration name="SecondLargestElement_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.SecondLargestElement_2" />
+>>>>>>> d32119d8eea70985d0cedd159bc5764f1982e30c
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindConsecutiveOdds2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FindConsecutiveOdds2" />
+    <configuration name="Stocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeTwo.Stocks" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.leetcodeTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstRepeatingInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.FirstRepeatingInteger" />
+    <configuration name="Stocks_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeTwo.Stocks_2" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.leetcodeTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +134,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="LargestPositiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.LargestPositiveInteger" />
+=======
+    <configuration name="TwoPointer_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeTwo.TwoPointer_Problem" />
+>>>>>>> d32119d8eea70985d0cedd159bc5764f1982e30c
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.leetcodeTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassPillow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.PassPillow" />
+    <configuration name="Two_Pointer_Array_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Two_Pointer_Array_Sort" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +167,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.LargestPositiveInteger" />
         <item itemvalue="Application.FirstRepeatingInteger" />
         <item itemvalue="Application.FindConsecutiveOdds2" />
         <item itemvalue="Application.FindCommonChars" />
         <item itemvalue="Application.PassPillow" />
+=======
+        <item itemvalue="Application.Stocks_2" />
+        <item itemvalue="Application.SecondLargestElement_2" />
+        <item itemvalue="Application.Stocks" />
+        <item itemvalue="Application.Two_Pointer_Array_Sort" />
+        <item itemvalue="Application.TwoPointer_Problem" />
+>>>>>>> d32119d8eea70985d0cedd159bc5764f1982e30c
       </list>
     </recent_temporary>
   </component>
@@ -230,6 +258,26 @@
           <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/leetcode/LargestPositiveInteger.java</url>
           <line>14</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/TwoPointer_Problem.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/leetcodeTwo/Stocks_2.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/SecondLargestElement_2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
