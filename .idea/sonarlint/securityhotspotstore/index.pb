@@ -89,3 +89,5 @@ f
 6src/com/practice/dsa/array/SecondLargestElement_2.java,9\0\90f2bfded76fee91e768747cd2c68654e0143576
 n
 >src/com/practice/dsa/array/RemoveDuplicates_UnsorterArray.java,4\5\45a0fbdc0c21e6cdf97959c6460078fe1a948307
+i
+9src/com/practice/dsa/array/takeuforward/LinearSearch.java,5\d\5d10756e16c8e4c1d44b8c2aefdb120b09aa7127

@@ -2,7 +2,7 @@ package com.practice.dsa.array;
 
 import java.util.TreeSet;
 
-public class SecondLargestElement_2 {
+public class SecondLargestChar {
     public static void main(String[] args) {
         String input = "pppppbbbbaa";
         char secondLargest = findSecondLargestChar(input);
