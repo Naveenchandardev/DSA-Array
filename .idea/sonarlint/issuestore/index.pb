@@ -91,3 +91,5 @@ l
 <src/com/practice/dsa/array/takeuforward/LeftRotateByOne.java,c\0\c0b65ca14f99e14dcf68fdc3c93b6c6f65b9ebba
 p
 @src/com/practice/dsa/array/takeuforward/Max_Consecutive_One.java,e\b\eb2fae4b1e2da8fbdde4a0ac0ac2d46bac244b8e
+h
+8src/com/practice/dsa/array/takeuforward/Left_Rotate.java,1\4\14294cd5969be8dbed49b44a627146e853f03339
