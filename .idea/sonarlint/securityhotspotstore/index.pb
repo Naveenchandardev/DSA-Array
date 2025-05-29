@@ -27,8 +27,6 @@ b
 2src/com/practice/dsa/array/Print_duplicates_2.java,e\1\e1b45fa67b43c50dd733b82cba1397330875cabb
 h
 8src/com/practice/dsa/array/ReArrange_Even_Positions.java,e\6\e603159c7bdeadb5aa9799080a3c1580d0d2f25f
-_
-/src/com/practice/dsa/array/RemoveDuplicate.java,7\5\75813658b2124a30a52f843f517bd52e352a7fa1
 `
 0src/com/practice/dsa/array/MergeArrayStream.java,f\3\f3721e95c965b5b3061bc7faef2b50e389381744
 ^
@@ -85,11 +83,11 @@ n
 >src/com/practice/dsa/array/leetcode/FirstRepeatingInteger.java,0\c\0c2ab130ab11070944b28ddaaa9d89d11656bfce
 k
 ;src/com/practice/dsa/array/takeuforward/LargestElement.java,4\7\477f3e51a8b6230f01afd55348a4266106d2681f
-f
-6src/com/practice/dsa/array/SecondLargestElement_2.java,9\0\90f2bfded76fee91e768747cd2c68654e0143576
 n
 >src/com/practice/dsa/array/RemoveDuplicates_UnsorterArray.java,4\5\45a0fbdc0c21e6cdf97959c6460078fe1a948307
 i
 9src/com/practice/dsa/array/takeuforward/LinearSearch.java,5\d\5d10756e16c8e4c1d44b8c2aefdb120b09aa7127
 l
 <src/com/practice/dsa/array/takeuforward/LeftRotateByOne.java,c\0\c0b65ca14f99e14dcf68fdc3c93b6c6f65b9ebba
+p
+@src/com/practice/dsa/array/takeuforward/Max_Consecutive_One.java,e\b\eb2fae4b1e2da8fbdde4a0ac0ac2d46bac244b8e
