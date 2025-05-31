@@ -101,3 +101,5 @@ j
 :src/com/practice/dsa/array/takeuforward/UnionOfArrays.java,6\b\6bf324810b60ba747ac1dff627070d33e4f5a817
 l
 <src/com/practice/dsa/array/takeuforward/KadaneAlgorithm.java,a\d\ad95b9c73ad94f25a7765e4fdd0097866fe9d8a0
+x
+Hsrc/com/practice/dsa/array/takeuforward/KadaneAlgorithmWithSubarray.java,e\f\ef84e6ec013832e2daf585d3725ef09693b645b9
