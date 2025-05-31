@@ -93,3 +93,7 @@ p
 @src/com/practice/dsa/array/takeuforward/Max_Consecutive_One.java,e\b\eb2fae4b1e2da8fbdde4a0ac0ac2d46bac244b8e
 h
 8src/com/practice/dsa/array/takeuforward/Left_Rotate.java,1\4\14294cd5969be8dbed49b44a627146e853f03339
+i
+9src/com/practice/dsa/array/takeuforward/singleNumber.java,8\b\8bdd32ace88b1fe0fae8b2d012be3fd508df45fd
+o
+?src/com/practice/dsa/array/takeuforward/SingleNumberFinder.java,0\a\0a7060404d7a6bf54a0c886accbead65216a42de
