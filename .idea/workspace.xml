@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/UnionOfArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/KadaneAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/KadaneAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +83,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Max_Consecutive_One">
+  <component name="RunManager" selected="Application.KadaneAlgorithm">
+    <configuration name="KadaneAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.takeuforward.KadaneAlgorithm" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.takeuforward.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LeftRotateByOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.takeuforward.LeftRotateByOne" />
       <module name="DSA-Array" />
@@ -138,28 +149,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointer_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeTwo.TwoPointer_Problem" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcodeTwo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.KadaneAlgorithm" />
       <item itemvalue="Application.LeftRotateByOne" />
       <item itemvalue="Application.Left_Rotate" />
       <item itemvalue="Application.Max_Consecutive_One" />
       <item itemvalue="Application.LinearSearch" />
-      <item itemvalue="Application.TwoPointer_Problem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KadaneAlgorithm" />
         <item itemvalue="Application.Max_Consecutive_One" />
         <item itemvalue="Application.Left_Rotate" />
         <item itemvalue="Application.LeftRotateByOne" />
