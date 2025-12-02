@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Sorting {
     public static void main(String[] args) {
-        int[] array = {5,4,3,2,1};
+        int[] array = {1,2,3,5,4};
         System.out.println("Array before sorting:");
         insertionSort(array);
         System.out.println("\nArray after sorting:");
@@ -13,13 +13,13 @@ public class Sorting {
 
     private static void insertionSort(int[] array) {
         for (int i = 1; i < array.length; i++) {
-            int j = i;
             int a = array[i];
-            while ((j > 0) && (array[j - 1] > a)) {
-                array[j] = array[j - 1];
+            int j = i - 1;
+            while ((j > 0) && (array[j] > a)) {
+                array[j+1] = array[j];
                 j--;
             }
-            array[j] = a;
+            array[j+1] = a;
         }
     }
 }
