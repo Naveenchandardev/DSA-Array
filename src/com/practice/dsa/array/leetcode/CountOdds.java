@@ -1,12 +1,13 @@
 package com.practice.dsa.array.leetcode;
 
 public class CountOdds {
+    //https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/?envType=daily-question&envId=2025-12-07
     public static void main(String[] args) {
         int low =3;   int high =7;
-        System.out.println(resultss(low, high));
+        System.out.println(countOddsResult(low, high));
     }
 
-    private static int  resultss(int low, int high) {
+    private static int  countOddsResult(int low, int high) {
         return (high + 1) / 2 - (low / 2);
     }
 }

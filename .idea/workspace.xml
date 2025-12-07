@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,20 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Remove_duplicates_Traditional">
+  <component name="RunManager" selected="Application.CountOdds">
+    <configuration name="CountOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcode.CountOdds" />
+      <module name="DSA-Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.dsa.array.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Currency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.GeeksforGeeks.Currency" />
       <module name="DSA-Array" />
@@ -127,19 +138,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumberFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.takeuforward.SingleNumberFinder" />
-      <module name="DSA-Array" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.takeuforward.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.Sorting" />
       <module name="DSA-Array" />
@@ -154,19 +152,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CountOdds" />
       <item itemvalue="Application.Remove_duplicates_Traditional" />
       <item itemvalue="Application.Currency" />
       <item itemvalue="Application.ReverseCircular" />
-      <item itemvalue="Application.SingleNumberFinder" />
       <item itemvalue="Application.Sorting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountOdds" />
         <item itemvalue="Application.Remove_duplicates_Traditional" />
         <item itemvalue="Application.ReverseCircular" />
         <item itemvalue="Application.Currency" />
         <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.SingleNumberFinder" />
       </list>
     </recent_temporary>
   </component>
