@@ -13,7 +13,7 @@ public class mergeTwoSortedArrays {
         int k = 0;
 
         while (i < a.length && j < b.length) {
-                   if (a[i] <= b[j]) {
+            if (a[i] <= b[j]) {
                 result[k++] = a[i++];
             } else {
                 result[k++] = b[j++];
