@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/interview_questions/Three_Sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-Array/com/practice/dsa/array/BinarySearch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,7 @@
     "Application.Second_Largest_Element.executor": "Run",
     "Application.SingleNumberFinder.executor": "Run",
     "Application.Sorting.executor": "Run",
+    "Application.Three_Sum.executor": "Run",
     "Application.TwoDimentionalArray.executor": "Run",
     "Application.TwoPointer_Problem.executor": "Debug",
     "Application.Two_Pointer_Array_Sort.executor": "Debug",
@@ -95,7 +97,7 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TwoPointer_Problem">
+  <component name="RunManager" selected="Application.Three_Sum">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.BinarySearch" />
       <module name="DSA-Array" />
@@ -109,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstMissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.GeeksforGeeks.FirstMissingNumber" />
+    <configuration name="FirstMissingPositiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeproblems.FirstMissingPositiveInteger" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.GeeksforGeeks.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.leetcodeproblems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstMissingPositiveInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.leetcodeproblems.FirstMissingPositiveInteger" />
+    <configuration name="Three_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.interview_questions.Three_Sum" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.leetcodeproblems.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.interview_questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +164,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Three_Sum" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.TwoPointer_Problem" />
-      <item itemvalue="Application.FirstMissingNumber" />
       <item itemvalue="Application.FirstMissingPositiveInteger" />
       <item itemvalue="Application.findDisappearedNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Three_Sum" />
         <item itemvalue="Application.TwoPointer_Problem" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.findDisappearedNumbers" />
         <item itemvalue="Application.FirstMissingPositiveInteger" />
-        <item itemvalue="Application.FirstMissingNumber" />
       </list>
     </recent_temporary>
   </component>

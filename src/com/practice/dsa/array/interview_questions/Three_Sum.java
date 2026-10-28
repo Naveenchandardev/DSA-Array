@@ -4,13 +4,15 @@ import java.util.Arrays;
 
 public class Three_Sum {
     public static void main(String[] args) {
-        int a [] = {1,2,3,4,5,6,7,8,9};
+        int a [] = {1,2,3,4,5,6,7,8,9}; int k=2;
         int result[] = new int[a.length];
         for (int i = 0; i < a.length; i++) {
-            if (i < 2) {
+            if (i < k-1) {
                 result[i] = a[i];
             } else {
-                result[i] = a[i] + a[i - 1] + a[i - 2];
+                for(int j=0;j<k;j++){
+                    result[i]=result[i]+a[i-j];
+                }
             }
         }
         System.out.println(Arrays.toString(result));
