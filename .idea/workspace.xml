@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
     "Application.MatrixTranspose.executor": "Run",
     "Application.Max_Consecutive_One.executor": "Run",
     "Application.Max_Consecutive_subarray_2.executor": "Debug",
+    "Application.Max_subarray_consecutive_2.executor": "Debug",
     "Application.Max_sum_subarray.executor": "Run",
     "Application.Median_of_2_array.executor": "Debug",
     "Application.MergeArrayCopy.executor": "Run",
@@ -97,13 +99,13 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Max_Consecutive_subarray_2">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.BinarySearch" />
+  <component name="RunManager" selected="Application.Max_subarray_consecutive_2">
+    <configuration name="Max_Consecutive_subarray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.takeuforward.Max_Consecutive_subarray_2" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.dsa.array.*" />
+          <option name="PATTERN" value="com.practice.dsa.array.takeuforward.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Max_Consecutive_subarray_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.takeuforward.Max_Consecutive_subarray_2" />
+    <configuration name="Max_subarray_consecutive_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.dsa.array.takeuforward.Max_subarray_consecutive_2" />
       <module name="DSA-Array" />
       <extension name="coverage">
         <pattern>
@@ -164,19 +166,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Max_subarray_consecutive_2" />
       <item itemvalue="Application.Max_Consecutive_subarray_2" />
       <item itemvalue="Application.Max_sum_subarray" />
       <item itemvalue="Application.Three_Sum" />
-      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.TwoPointer_Problem" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Max_subarray_consecutive_2" />
         <item itemvalue="Application.Max_Consecutive_subarray_2" />
         <item itemvalue="Application.Max_sum_subarray" />
         <item itemvalue="Application.Three_Sum" />
         <item itemvalue="Application.TwoPointer_Problem" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -273,6 +275,11 @@
           <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_Consecutive_subarray_2.java</url>
           <line>14</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
