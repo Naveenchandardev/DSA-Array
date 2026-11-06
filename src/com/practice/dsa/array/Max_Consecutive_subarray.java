@@ -2,7 +2,7 @@ package com.practice.dsa.array;
 
 import javax.swing.plaf.basic.BasicArrowButton;
 
-public class Max_sum_subarray {
+public class Max_Consecutive_subarray {
     public static void main(String[] args) {
         int[] arr = {2, 1, 5, 1, 3, 2};
         int k = 3;
