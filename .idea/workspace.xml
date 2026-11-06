@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211c82e3-206b-413b-973d-d13ccae47faa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_with_k_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_with_k_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,7 +277,7 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_2.java</url>
+          <url>file://$PROJECT_DIR$/src/com/practice/dsa/array/takeuforward/Max_subarray_consecutive_with_k_2.java</url>
           <line>9</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
